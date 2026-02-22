@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ルージュ",
+  "base_artist": "オレンジスパイニクラブ",
+  "createdAt": "2026-02-22T18:16:42.167946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ライアー・ルージュ",
+      "artist": "北沢志保(CV 雨宮天)",
+      "has_synced": false,
+      "path": "select/01_ライアー・ルージュ_北沢志保(CV_雨宮天).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライアー・ルージュ",
+      "artist": "北沢志保 (雨宮天)",
+      "has_synced": false,
+      "path": "select/02_ライアー・ルージュ_北沢志保_(雨宮天).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ライアー・ルージュ",
+      "artist": "北沢志保",
+      "has_synced": false,
+      "path": "select/03_ライアー・ルージュ_北沢志保.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ライアー・ルージュ",
+      "artist": "北沢志保 (CV.雨宮 天)",
+      "has_synced": false,
+      "path": "select/04_ライアー・ルージュ_北沢志保_(CV.雨宮_天).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルージュ",
+      "artist": "オレンジスパイニクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_ルージュ_オレンジスパイニクラブ.txt"
+    }
+  ]
+}
